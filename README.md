@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a 2nd-year integrated preparatory cycle student passionate about software development and data science. I enjoy learning new technologies and building projects that solve real-world problems using data-driven approaches.</p>
+<p align="left">I’m a first-year software engineering student with a strong passion for software development and data science. I enjoy exploring new technologies and building practical projects that solve real-world problems through data-driven solutions. I'm always eager to learn, grow, and contribute to meaningful innovations.</p>
 
 ###
 
