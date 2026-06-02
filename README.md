@@ -40,6 +40,6 @@
 
 ###
 
-<p align="left">💼 LinkedIn :<a href="https://www.linkedin.com/in/amen-allah-hajji-4367242aa/">Amen allah Hajji</a><br>📧 Email : <a href="mailto:amenallah.hajji@etudiant-fst.utm.tn">amenallah.hajji@etudiant fst.utm.tn</a></p>
+<p align="left">💼 LinkedIn :<a href="https://www.linkedin.com/in/amen-allah-hajji-4367242aa/">Amen allah Hajji</a><br>📧 Email : <a href="mailto:amenallah.hajji@etudiant-fst.utm.tn">amenallah.hajji2@gmail.com</a></p>
 
 ###
