@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Engineering student | AI and data enthusiast</h5>
+<h5 align="left">Software Engineering student | AI and data enthusiast</h5>
 
 ###
 
